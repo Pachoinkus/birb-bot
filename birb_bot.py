@@ -186,4 +186,4 @@ async def mute(ctx, user, reason):
             await channel.set_permissions(muted, send_messages=False, read_message_history=False, read_messages=False)
 
 
-client.run('NzM3ODA1NzQ3MTUyMzU1Mzc5.XyCtJQ.9aXu7LYIMAtCVCsWo9pLG8SSHtk')
+client.run('haha you think id put my token here!? nah fam u dumb af')
